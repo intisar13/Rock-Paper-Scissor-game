@@ -1,2 +1,2 @@
 # Rock-Paper-Scissor-game
-rockpaperscissorsgame13.netlify.app
+https://rockpaperscissorsgame13.netlify.app/
